@@ -1,0 +1,2 @@
+# CompleteYourPokedexFlair
+Flair Bot
